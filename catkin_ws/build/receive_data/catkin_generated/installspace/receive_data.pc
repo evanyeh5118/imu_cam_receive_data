@@ -1,0 +1,8 @@
+prefix=/home/evanyeh/Documents/ITRI/catkin_ws/install
+
+Name: receive_data
+Description: Description of receive_data
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/evanyeh/Documents/ITRI/catkin_ws/install/lib 
+Requires: 
